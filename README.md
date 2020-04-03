@@ -1,4 +1,4 @@
-# Blue Fenix Productions
+## Blue Fenix Productions
 
 You can use the [editor on GitHub](https://github.com/ChrisPelatari/bluefenix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
