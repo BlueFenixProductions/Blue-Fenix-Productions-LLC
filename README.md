@@ -1,6 +1,6 @@
 # Simple solutions.
-> “Our life is frittered away by detail. Simplify, simplify.” 
-> ― Henry David Thoreau
+> “The greatest ideas are the simplest.” 
+― William Golding
 
 ### Lorem ipsum
 
