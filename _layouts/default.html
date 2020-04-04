@@ -18,7 +18,8 @@
       <div class="inner">
 
         <header>
-          <img src="/assets/images/header.png">
+          <a href="https://{{ site.title | default: site.github.repository_name }}">
+          <img src="/assets/images/header.png"></a>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
         <section id="downloads" class="clearfix">
@@ -41,7 +42,7 @@
 
         <footer>
         {% if site.github.is_project_page %}
-          {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
+        <a href="https://{{ site.title | default: site.github.repository_name }}">{{ site.title | default: site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
         {% endif %}
         </footer>
 
