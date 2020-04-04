@@ -3,9 +3,23 @@
 <br/>
 > ― William Golding
 
-## Lorem ipsum
+## Experience matters.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas condimentum nibh id lacus gravida malesuada. Mauris eu ultricies urna, sit amet lacinia ligula. Donec dapibus faucibus ex, ut laoreet massa ullamcorper eu. Cras turpis lectus, consectetur quis aliquam in, fermentum laoreet velit. Vivamus nisl metus, euismod et diam iaculis, commodo dignissim turpis. Morbi ullamcorper mi ut tellus facilisis efficitur. Sed placerat orci justo, at elementum magna accumsan et. Curabitur venenatis leo eget nulla aliquet, in mattis enim fringilla. In id dictum orci, vitae ultrices nisl. Quisque a dignissim dui. Quisque auctor porta ultricies.
+### 20 year Windows, ASP.NET and C# SME. 
+
+#### Experience in:
+- Sql Server
+- VB.NET
+- Ruby
+- Python
+- Swift
+- Java
+- C++
+- javascript
+- bootstrap
+- Windows Forms 
+- iOS development
+- Agile practice
 
 ## Duis eget
 
