@@ -14,26 +14,26 @@
 <div class="row">
   <div class="col-sm">
     <ul>
-      <li><i class="fas fa-hashtag"></i> C#</li>
-      <li><i class="fas fa-database"></i> Sql Server</li>
-      <li><i class="fas fa-laptop-code"></i> VB.NET</li>
-      <li><i class="far fa-gem"></i> Ruby</li>
-      <li><i class="fab fa-python"></i> Python</li>
-      <li><i class="fab fa-swift"></i> Swift</li>
-      <li><i class="fab fa-java"></i> Java</li>
-      <li><i class="fas fa-code-branch"></i> Agile</li>
+      <li class="pt-1"><i class="fas fa-hashtag"></i> C#</li>
+      <li class="pt-1"><i class="fas fa-database"></i> Sql Server</li>
+      <li class="pt-1"><i class="fas fa-laptop-code"></i> VB.NET</li>
+      <li class="pt-1"><i class="far fa-gem"></i> Ruby</li>
+      <li class="pt-1"><i class="fab fa-python"></i> Python</li>
+      <li class="pt-1"><i class="fab fa-swift"></i> Swift</li>
+      <li class="pt-1"><i class="fab fa-java"></i> Java</li>
+      <li class="pt-1"><i class="fas fa-code-branch"></i> Agile</li>
     </ul>
   </div>
   <div class="col-sm">
     <ul>
-      <li><i class="far fa-file-code"></i> ASP.NET MVC</li>
-      <li><i class="fab fa-windows"></i> Windows Forms</li>
-      <li><i class="fab fa-apple"></i> iOS</li>
-      <li><i class="fab fa-html5"></i> HTML</li>
-      <li><i class="fab fa-css3-alt"></i> CSS</li>
-      <li><i class="fab fa-js-square"></i> JavaScript</li>
-      <li><i class="fab fa-vuejs"></i> Vue.js</li>
-      <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
+      <li class="pt-1"><i class="far fa-file-code"></i> ASP.NET MVC</li>
+      <li class="pt-1"><i class="fab fa-windows"></i> Windows Forms</li>
+      <li class="pt-1"><i class="fab fa-apple"></i> iOS</li>
+      <li class="pt-1"><i class="fab fa-html5"></i> HTML</li>
+      <li class="pt-1"><i class="fab fa-css3-alt"></i> CSS</li>
+      <li class="pt-1"><i class="fab fa-js-square"></i> JavaScript</li>
+      <li class="pt-1"><i class="fab fa-vuejs"></i> Vue.js</li>
+      <li class="pt-1"><i class="fab fa-bootstrap"></i> Bootstrap</li>
     </ul>    
   </div>
 </div>
