@@ -10,6 +10,7 @@
 ### 20 year Windows, ASP.NET and C# SME. 
 
 #### Experience in:
+
 <div class="row">
   <div class="col-sm">
     <ul>
@@ -27,9 +28,9 @@
     <ul>
       <li><i class="far fa-file-code"></i> ASP.NET MVC</li>
       <li><i class="fab fa-windows"></i> Windows Forms</li>
-      <li><i class="fab fa-apple"></i> iOS development</li>
+      <li><i class="fab fa-apple"></i> iOS</li>
+      <li><i class="fab fa-html5"></i> HTML</li>
       <li><i class="fab fa-css3-alt"></i> CSS</li>
-      <li><i class="far fa-file-code"></i> HTML</li>
       <li><i class="fab fa-js-square"></i> JavaScript</li>
       <li><i class="fab fa-vuejs"></i> Vue.js</li>
       <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
