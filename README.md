@@ -1,7 +1,9 @@
 # Simple solutions.
-> “The greatest ideas are the simplest.” 
+> "Our life is frittered away by detail.
+<br/> 
+> Simplify, simplify."
 <br/>
-> ― William Golding
+> ― Henry David Thoreau
 
 ## Experience matters.
 
@@ -21,13 +23,19 @@
  - iOS development
  - Agile practice
 
-## Duis eget
+<div class="row">
+  <div class="col-sm">
+  <h2>Duis eget</h2>
 
-Duis eget facilisis sapien, vitae scelerisque lorem. Aliquam urna ex, facilisis eu iaculis nec, dignissim sed felis. Morbi mollis mauris sed risus ullamcorper laoreet id eu felis. Ut non velit auctor, placerat magna ut, faucibus nisi. Etiam vulputate finibus interdum. Sed pretium molestie suscipit. Vivamus sit amet dapibus lacus, feugiat porttitor felis. Sed eleifend turpis turpis, et aliquet lorem semper ut. Etiam eu facilisis lectus. In rhoncus augue ante, et auctor lectus feugiat non. Vivamus fringilla volutpat congue. Morbi nec pharetra massa, at gravida justo. Proin malesuada nisi nibh, quis semper mauris tristique vestibulum.
+  Duis eget facilisis sapien, vitae scelerisque lorem. Aliquam urna ex, facilisis eu iaculis nec, dignissim sed felis. Morbi mollis mauris sed risus ullamcorper laoreet id eu felis. Ut non velit auctor, placerat magna ut, faucibus nisi. Etiam vulputate finibus interdum. Sed pretium molestie suscipit. Vivamus sit amet dapibus lacus, feugiat porttitor felis. Sed eleifend turpis turpis, et aliquet lorem semper ut. Etiam eu facilisis lectus. In rhoncus augue ante, et auctor lectus feugiat non. Vivamus fringilla volutpat congue. Morbi nec pharetra massa, at gravida justo. Proin malesuada nisi nibh, quis semper mauris tristique vestibulum.
+  </div>
+  <div class="col-sm">
+  <h2>Integer at</h2>
 
-## Integer at
-
-Integer at lacus nec neque vestibulum accumsan. In eleifend ligula a elementum fringilla. Duis ut pulvinar massa, a fringilla tellus. Vivamus eu mauris sodales, hendrerit turpis vitae, facilisis augue. Sed nec libero at lacus elementum eleifend. In malesuada feugiat sapien at pharetra. Morbi consectetur, dui vel imperdiet gravida, lorem dolor auctor ex, vitae dignissim lorem sem convallis eros. Sed accumsan, arcu quis varius venenatis, nunc erat eleifend massa, id hendrerit magna augue vitae metus. Nulla facilisi. Sed eget mollis nisl. Morbi pulvinar porta purus non imperdiet.
+  Integer at lacus nec neque vestibulum accumsan. In eleifend ligula a elementum fringilla. Duis ut pulvinar massa, a fringilla tellus. Vivamus eu mauris sodales, hendrerit turpis vitae, facilisis augue. Sed nec libero at lacus elementum eleifend. In malesuada feugiat sapien at pharetra. Morbi consectetur, dui vel imperdiet gravida, lorem dolor auctor ex, vitae dignissim lorem sem convallis eros. Sed accumsan, arcu quis varius venenatis, nunc erat eleifend massa, id hendrerit magna augue vitae metus. Nulla facilisi. Sed eget mollis nisl. Morbi pulvinar porta purus non imperdiet.
+  </div>
+</div>
+<br/>
 
 ### Proin volutpat
 
