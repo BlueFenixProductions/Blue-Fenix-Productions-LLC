@@ -38,7 +38,7 @@
   </div>
 </div>
 ---
-## What we do
+## What we deliver 
 
   Duis eget facilisis sapien, vitae scelerisque lorem. Aliquam urna ex, facilisis eu iaculis nec, dignissim sed felis. Morbi mollis mauris sed risus ullamcorper laoreet id eu felis. Ut non velit auctor, placerat magna ut, faucibus nisi. Etiam vulputate finibus interdum. Sed pretium molestie suscipit. Vivamus sit amet dapibus lacus, feugiat porttitor felis. Sed eleifend turpis turpis, et aliquet lorem semper ut. Etiam eu facilisis lectus. In rhoncus augue ante, et auctor lectus feugiat non. Vivamus fringilla volutpat congue. Morbi nec pharetra massa, at gravida justo. Proin malesuada nisi nibh, quis semper mauris tristique vestibulum.
 
