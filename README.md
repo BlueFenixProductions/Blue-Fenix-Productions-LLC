@@ -8,18 +8,18 @@
 ### 20 year Windows, ASP.NET and C# SME. 
 
 #### Experience in:
-- Sql Server
-- VB.NET
-- Ruby
-- Python
-- Swift
-- Java
-- C++
-- javascript
-- bootstrap
-- Windows Forms 
-- iOS development
-- Agile practice
+ - Sql Server
+ - VB.NET
+ -  Ruby
+ - Python
+ - Swift
+ - Java
+ - C++
+ - JavaScript
+ - Bootstrap
+ - Windows Forms 
+ - iOS development
+ - Agile practice
 
 ## Duis eget
 
