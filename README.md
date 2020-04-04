@@ -50,6 +50,8 @@
   Integer at lacus nec neque vestibulum accumsan. In eleifend ligula a elementum fringilla. Duis ut pulvinar massa, a fringilla tellus. Vivamus eu mauris sodales, hendrerit turpis vitae, facilisis augue. Sed nec libero at lacus elementum eleifend. In malesuada feugiat sapien at pharetra. Morbi consectetur, dui vel imperdiet gravida, lorem dolor auctor ex, vitae dignissim lorem sem convallis eros. Sed accumsan, arcu quis varius venenatis, nunc erat eleifend massa, id hendrerit magna augue vitae metus. Nulla facilisi. Sed eget mollis nisl. Morbi pulvinar porta purus non imperdiet.
   </div>
 </div>
+---
+<a href="mailto:support@bluefenix.net?subject=Quote" class="btn btn-primary btn-lg btn-block">Get a Quote</a>
 <br/>
 
 ### Proin volutpat
