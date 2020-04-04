@@ -1,35 +1,19 @@
-You can use the [editor on GitHub](https://github.com/ChrisPelatari/bluefenix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Lorem Ipsum
+> "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+> "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lorem ipsum
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas condimentum nibh id lacus gravida malesuada. Mauris eu ultricies urna, sit amet lacinia ligula. Donec dapibus faucibus ex, ut laoreet massa ullamcorper eu. Cras turpis lectus, consectetur quis aliquam in, fermentum laoreet velit. Vivamus nisl metus, euismod et diam iaculis, commodo dignissim turpis. Morbi ullamcorper mi ut tellus facilisis efficitur. Sed placerat orci justo, at elementum magna accumsan et. Curabitur venenatis leo eget nulla aliquet, in mattis enim fringilla. In id dictum orci, vitae ultrices nisl. Quisque a dignissim dui. Quisque auctor porta ultricies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Duis eget
 
-```markdown
-Syntax highlighted code block
+Duis eget facilisis sapien, vitae scelerisque lorem. Aliquam urna ex, facilisis eu iaculis nec, dignissim sed felis. Morbi mollis mauris sed risus ullamcorper laoreet id eu felis. Ut non velit auctor, placerat magna ut, faucibus nisi. Etiam vulputate finibus interdum. Sed pretium molestie suscipit. Vivamus sit amet dapibus lacus, feugiat porttitor felis. Sed eleifend turpis turpis, et aliquet lorem semper ut. Etiam eu facilisis lectus. In rhoncus augue ante, et auctor lectus feugiat non. Vivamus fringilla volutpat congue. Morbi nec pharetra massa, at gravida justo. Proin malesuada nisi nibh, quis semper mauris tristique vestibulum.
 
-# Header 1
-## Header 2
-### Header 3
+### Integer at
 
-- Bulleted
-- List
+Integer at lacus nec neque vestibulum accumsan. In eleifend ligula a elementum fringilla. Duis ut pulvinar massa, a fringilla tellus. Vivamus eu mauris sodales, hendrerit turpis vitae, facilisis augue. Sed nec libero at lacus elementum eleifend. In malesuada feugiat sapien at pharetra. Morbi consectetur, dui vel imperdiet gravida, lorem dolor auctor ex, vitae dignissim lorem sem convallis eros. Sed accumsan, arcu quis varius venenatis, nunc erat eleifend massa, id hendrerit magna augue vitae metus. Nulla facilisi. Sed eget mollis nisl. Morbi pulvinar porta purus non imperdiet.
 
-1. Numbered
-2. List
+### Proin volutpat
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisPelatari/bluefenix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Proin volutpat suscipit ex vel euismod. Praesent quam enim, malesuada posuere scelerisque in, aliquam id neque. Mauris mauris nisi, malesuada sit amet venenatis ut, egestas a risus. Vivamus imperdiet metus vitae faucibus ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vehicula erat nec metus ultricies pulvinar. Suspendisse justo tellus, faucibus lacinia ligula in, posuere vestibulum turpis. Proin nibh mi, gravida in tortor at, aliquam blandit erat. Pellentesque sit amet tellus enim. Etiam eget lorem a dui aliquet tempor eu sed sem.
