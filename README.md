@@ -10,19 +10,33 @@
 ### 20 year Windows, ASP.NET and C# SME. 
 
 #### Experience in:
- - Sql Server
- - VB.NET
- -  Ruby
- - Python
- - Swift
- - Java
- - C++
- - JavaScript
- - Bootstrap
- - Windows Forms 
- - iOS development
- - Agile practice
-
+<div class="row">
+  <div class="col-sm">
+    <ul>
+      <li><i class="fas fa-hashtag"></i> C#</li>
+      <li><i class="fas fa-database"></i> Sql Server</li>
+      <li><i class="fas fa-laptop-code"></i> VB.NET</li>
+      <li><i class="far fa-gem"></i> Ruby</li>
+      <li><i class="fab fa-python"></i> Python</li>
+      <li><i class="fab fa-swift"></i> Swift</li>
+      <li><i class="fab fa-java"></i> Java</li>
+      <li><i class="fas fa-code-branch"></i> Agile</li>
+    </ul>
+  </div>
+  <div class="col-sm">
+    <ul>
+      <li><i class="far fa-file-code"></i> ASP.NET MVC</li>
+      <li><i class="fab fa-windows"></i> Windows Forms</li>
+      <li><i class="fab fa-apple"></i> iOS development</li>
+      <li><i class="fab fa-css3-alt"></i> CSS</li>
+      <li><i class="far fa-file-code"></i> HTML</li>
+      <li><i class="fab fa-js-square"></i> JavaScript</li>
+      <li><i class="fab fa-vuejs"></i> Vue.js</li>
+      <li><i class="fab fa-bootstrap"></i> Bootstrap</li>
+    </ul>    
+  </div>
+</div>
+---
 <div class="row">
   <div class="col-sm">
   <h2>Duis eget</h2>

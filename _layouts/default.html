@@ -21,11 +21,10 @@
   <body>
     <div id="container">
       <div class="inner">
-
         <header>
           <a href="https://{{ site.title | default: site.github.repository_name }}">
           <img src="/assets/images/header.png"></a>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <h2> {{ page.description | default: site.description | default: site.github.project_tagline }} <i class="fas fa-code"></i></h2>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
