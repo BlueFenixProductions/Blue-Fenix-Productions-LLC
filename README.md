@@ -1,6 +1,6 @@
 # Simple solutions.
 > “The greatest ideas are the simplest.” 
-
+<br/>
 > ― William Golding
 
 ### Lorem ipsum
