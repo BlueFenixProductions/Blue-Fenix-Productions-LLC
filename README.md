@@ -54,6 +54,6 @@
 <a href="mailto:support@bluefenix.net?subject=Quote" class="btn btn-primary btn-lg btn-block">Get a Quote</a>
 <br/>
 
-### Proin volutpat
+### What you can expect
 
 Proin volutpat suscipit ex vel euismod. Praesent quam enim, malesuada posuere scelerisque in, aliquam id neque. Mauris mauris nisi, malesuada sit amet venenatis ut, egestas a risus. Vivamus imperdiet metus vitae faucibus ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vehicula erat nec metus ultricies pulvinar. Suspendisse justo tellus, faucibus lacinia ligula in, posuere vestibulum turpis. Proin nibh mi, gravida in tortor at, aliquam blandit erat. Pellentesque sit amet tellus enim. Etiam eget lorem a dui aliquet tempor eu sed sem.
