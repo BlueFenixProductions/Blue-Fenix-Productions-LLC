@@ -7,7 +7,7 @@
 
 ## Experience matters.
 
-### 20 year Windows, ASP.NET and C# SME. 
+### 20 year Windows, ASP.NET and C# subject-matter expert. 
 
 #### Experience in:
 
