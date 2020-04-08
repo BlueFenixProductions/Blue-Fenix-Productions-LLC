@@ -37,10 +37,16 @@
     </ul>    
   </div>
 </div>
----
-## What we deliver 
 
-  Duis eget facilisis sapien, vitae scelerisque lorem. Aliquam urna ex, facilisis eu iaculis nec, dignissim sed felis. Morbi mollis mauris sed risus ullamcorper laoreet id eu felis. Ut non velit auctor, placerat magna ut, faucibus nisi. Etiam vulputate finibus interdum. Sed pretium molestie suscipit. Vivamus sit amet dapibus lacus, feugiat porttitor felis. Sed eleifend turpis turpis, et aliquet lorem semper ut. Etiam eu facilisis lectus. In rhoncus augue ante, et auctor lectus feugiat non. Vivamus fringilla volutpat congue. Morbi nec pharetra massa, at gravida justo. Proin malesuada nisi nibh, quis semper mauris tristique vestibulum.
+---
+
+## Portfolio
+
+![blue fenix](/assets/images/businesscard.png)
+
+This site was built to showcase the simplicity in our design process. Built on modern, standards-compliant web technologies, we build our web properties mobile first. That means your web prescense will scale from the smallest iPhone to the largest monitor, and be beautiful and functional throughout.
+
+### Open Source
 
 ---
 <a href="mailto:support@bluefenix.net?subject=Quote" class="btn btn-primary btn-lg btn-block">Get a Quote</a>
