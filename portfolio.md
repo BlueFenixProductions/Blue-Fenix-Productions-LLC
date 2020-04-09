@@ -2,7 +2,7 @@
 
 ![blue fenix](/assets/images/businesscard.png)
 
-This site was built to showcase the simplicity in our design process. Built on modern, standards-compliant web technologies, we build our web properties mobile first. That means your brand will scale from the smallest iPhone to the largest monitor, and be beautiful and functional throughout.
+This site was built to showcase the simplicity in our design process. Built on modern, standards-compliant web technologies; we build our web properties mobile first. That means your brand will scale from the smallest iPhone to the largest monitor, and be beautiful and functional throughout.
 
 <div id="carousel-portfolio" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
