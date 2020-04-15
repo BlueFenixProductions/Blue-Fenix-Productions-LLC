@@ -48,7 +48,7 @@ This site was built to showcase the simplicity in our design process. Built on m
 
 ### Open Source
 
-- <i class="fab fa-github"></i> [Cogitatio](https://github.com/ChrisPelatari/Cogitatio)
+<!-- - <i class="fab fa-github"></i> [Cogitatio](https://github.com/ChrisPelatari/Cogitatio)-->
 - <i class="fab fa-github"></i> [GitHub](https://github.com/ChrisPelatari)
 
 ---
