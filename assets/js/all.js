@@ -2748,7 +2748,7 @@
     var maskRect = {
       tag: 'rect',
       attributes: _objectSpread({}, ALL_SPACE, {
-        fill: 'white'
+        fill: '#ccc'
       })
     };
     var maskInnerGroupChildrenMixin = mainPath.children ? {
