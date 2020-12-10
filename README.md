@@ -56,4 +56,4 @@ This site was built to showcase the simplicity in our design process. Built on m
 
 ### What you can expect
 
-Proin volutpat suscipit ex vel euismod. Praesent quam enim, malesuada posuere scelerisque in, aliquam id neque. Mauris mauris nisi, malesuada sit amet venenatis ut, egestas a risus. Vivamus imperdiet metus vitae faucibus ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vehicula erat nec metus ultricies pulvinar. Suspendisse justo tellus, faucibus lacinia ligula in, posuere vestibulum turpis. Proin nibh mi, gravida in tortor at, aliquam blandit erat. Pellentesque sit amet tellus enim. Etiam eget lorem a dui aliquet tempor eu sed sem.
+Experience. For over 20 years I have been actively involved in [.NET](https://dotnet.microsoft.com) and [ASP.NET](https://asp.net), having been awarded the Microsoft MVP for ASP.NET. I'm also an [AspInsider](https://aspinsiders.com). I focus on simplicity, testability, and elegance in code. I am a full-stack developer with experience in the above technologies. I'm also familiar with [AWS](https://aws.amazon.com) and [git](https://github.com).
