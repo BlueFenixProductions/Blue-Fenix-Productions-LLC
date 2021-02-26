@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Fenix Productions - Who We Are.
+title: Who We Are.
 bg: bg-primary
 ---
 
