@@ -6,13 +6,13 @@
 <body id="page-top">
   {% include page_nav.html %}
   {% include header.html %}
-  <section class="{{ page.bg }}" id="primary">
+  <section class="{% if page.bg %} {{ page.bg }} {% endif %}" id="findout">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 text-center">
                  <h2 class="section-heading">{{ page.title }}</h2>
                  <p>
-                   {{ page.img }}
+                   {% if page.img %} {{ page.img }} {% endif %}
                  </p>
                  <div class="container text-left {% if page.color %} {{ page.color }} {% endif %}">
                   {{ page.content }}
