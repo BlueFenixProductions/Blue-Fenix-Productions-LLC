@@ -2,6 +2,8 @@
 layout: page
 title: Who We Are.
 bg: bg-primary
+color: text-light
+img: <img src="http://www.gravatar.com/avatar/5c1c19f7bd77dfd7588df33df7886411?s=150" class="rounded-circle" width="150">
 ---
 
 <p class="lead"> 
