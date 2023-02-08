@@ -1,29 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+  {% include head.html %}
 
-{% include head.html %}
-
-<body id="page-top">
-  {% include page_nav.html %}
-  {% include header.html %}
-  <section class="{% if page.bg %} {{ page.bg }} {% endif %}" id="findout">
-    <div class="container">
+  <body id="page-top">
+    {% include page_nav.html %} 
+    {% include header.html %}
+    <section class="{% if page.bg %} {{ page.bg }} {% endif %}" id="findout">
+      <div class="container">
         <div class="row">
-            <div class="col-xl-12 text-center">
-                 <h2 class="section-heading">{{ page.title }}</h2>
-                 <p>
-                   {% if page.img %} {{ page.img }} {% endif %}
-                 </p>
-                 <div class="container text-left {% if page.color %} {{ page.color }} {% endif %}">
-                  {{ page.content }}
-                </div>
+          <div class="col-xl-12 text-center">
+            <h2 class="section-heading">{{ page.title }}</h2>
+            <p>{% if page.img %} {{ page.img }} {% endif %}</p>
+            <div
+              class="container text-left {% if page.color %} {{ page.color }} {% endif %}"
+            >
+              {{ page.content }}
             </div>
+          </div>
         </div>
-    </div>
-  </section>
-  {% include contact.html %}
-  {% include footer.html %}
-  {% include scripts.html %}
-</body>
-
+      </div>
+    </section>
+    {% include contact.html %} 
+    {% include footer.html %} 
+    {% include scripts.html %}
+  </body>
 </html>
