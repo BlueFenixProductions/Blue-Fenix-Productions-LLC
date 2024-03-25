@@ -1,7 +1,7 @@
 # Site settings
-title: Blue Fenix Productions LLC
+title: Blue Fenix Productions
 email: support@bluefenix.net
-description: Simple Solutions from a Professional Geek.
+description: Simple digital solutions by a Professional Geek.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bluefenix.net" # the base hostname & protocol for your site
 
