@@ -1,45 +1,42 @@
-<nav
-  id="mainNav"
-  class="navbar navbar-light bg-light fixed-top navbar-expand-md"
->
-  <!-- Brand and toggle get grouped for better mobile display -->
-  <button
-    type="button"
-    class="navbar-toggler collapsed"
-    data-toggle="collapse"
-    data-target="#bs-example-navbar-collapse-1"
-  >
-    <span class="sr-only">Toggle navigation</span> &#x2630;
-  </button>
-  <a
-    class="page-scroll theme-primary lead text-decoration-none"
-    href="#page-top"
-    ><img
-      src="assets/images/fenix.png"
-      width="30"
-      height="30"
-      alt="Blue Fenix Productions LLC"
-    />
-    Blue Fenix Productions
-  </a>
-  <!-- Collect the nav links,
-    forms, and other content for toggling -->
-  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    <ul class="nav navbar-nav ml-auto">
-      <li class="nav-item">
-        <a class="page-scroll nav-link" href="#findout">Services</a>
-      </li>
-      <li class="nav-item">
-        <a class="page-scroll nav-link" href="#portfolio">Portfolio</a>
-      </li>
-      <li class="nav-item">
-        <a class="page-scroll nav-link" href="#about">About</a>
-      </li>
-      <li class="nav-item">
-        <a class="page-scroll nav-link" href="#contact">Contact</a>
-      </li>
-    </ul>
+<nav id="mainNav" class="bg-light fixed-top w-full">
+  <div class="container mx-auto px-4 py-1 flex items-center justify-between flex-wrap">
+    <div class="flex items-center flex-shrink-0 text-white mr-6">
+      <a class="navbar-brand flex items-center" href="#page-top">
+        <img src="assets/images/fenix.png" width="48" height="48" alt="Blue Fenix Productions LLC" class="mr-2" />
+        <span>Blue Fenix Productions</span>
+      </a>
+    </div>
+    <div class="block lg:hidden">
+      <button class="navbar-toggler flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white" onclick="toggleMenu()">
+        <span class="sr-only">Toggle navigation</span> &#x2630;
+      </button>
+    </div>
+    <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block" id="navbarResponsive">
+      <ul class="navbar-nav text-sm lg:flex-grow lg:flex lg:justify-end">
+        <li class="nav-item">
+          <a class="nav-link block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="#findout">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="#portfolio">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
   </div>
-  <!-- /.navbar-collapse -->
-  <!-- /.container-fluid -->
 </nav>
+
+<script>
+  function toggleMenu() {
+    var x = document.getElementById("navbarResponsive");
+    if (x.classList.contains("hidden")) {
+      x.classList.remove("hidden");
+    } else {
+      x.classList.add("hidden");
+    }
+  }
+</script>
