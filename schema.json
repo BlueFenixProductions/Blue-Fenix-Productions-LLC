@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Chris Pelatari",
+    "label": "Blue Fenix Productions",
+    "picture": "",
+    "email": "chris@bluefenix.net",
+    "phone": "(346) 634-3230",
+    "website": "http://bluefenix.net",
+    "summary": "I'm an experienced software developer with over 2 decades of crafting full-stack web and desktop applications using dotnet technologies including C# and VB.NET. Lately, I've been diving into TypeScript and Node.js, often paired with an ASP.NET Core backend. I'm also proud to be a former Microsoft MVP and a member of the AspInsiders community.",
+    "location": {
+      "address": "",
+      "postalCode": "TX 77449",
+      "city": "Katy",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "blog",
+        "username": "chris",
+        "url": "https://chris.pelatari.com/about"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "chris-pelatari",
+        "url": "https://linkedin.com/in/chris-pelatari"
+      },
+      {
+        "network": "Github",
+        "username": "ChrisPelatari",
+        "url": "https://github.com/ChrisPelatari"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "My Fake Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2018-01-01",
+      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+    },
+    {
+      "company": "Boston Electronics",
+      "position": "District Manager",
+      "website": "http://company.com",
+      "startDate": "2015-01-01",
+      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+    },
+    {
+      "company": "Batteries&Bulbs",
+      "position": "Store Manager",
+      "website": "http://company.com",
+      "startDate": "2012-01-01",
+      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+    },
+    {
+      "company": "State University",
+      "position": "Electrical Engineering intern",
+      "website": "http://company.com",
+      "startDate": "2009-01-01",
+      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Graphics/Media",
+      "level": 5,
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Fireworks",
+        "InDesign",
+        "After Effects"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": 6,
+      "keywords": [
+        "Javascript",
+        "PHP/MYSQL",
+        "jQuery",
+        "HTML5/CSS3"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": 4,
+      "keywords": [
+        "Graphic Design",
+        "Marketing",
+        "Web Design",
+        "Logo Design"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Marketing",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    },
+    {
+      "name": "Support",
+      "keywords": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+      ]
+    }
+  ]
+}
