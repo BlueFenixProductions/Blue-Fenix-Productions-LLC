@@ -20,7 +20,7 @@
             Project Details
           </Subheading>
           <Text>
-            In ac felis quis tortor malesuada pretium. Phasellus dolor. Fusce fermentum odio nec arcu. Integer tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In ac felis quis tortor malesuada pretium. Phasellus dolor. Fusce fermentum odio nec arcu. Integer tincidunt.
+            <div v-html="value.description || 'default project description'"></div>
           </Text>
 
           <Subheading>

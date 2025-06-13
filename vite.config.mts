@@ -74,6 +74,8 @@ export default defineConfig({
   },
   server: {
     port: 4200,
+    allowedHosts: true,
+    host: true,
   },
   optimizeDeps: {
     exclude: ['vuetify'],
