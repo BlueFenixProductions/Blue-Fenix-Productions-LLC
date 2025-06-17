@@ -47,46 +47,55 @@
       name: 'Blue Fenix Weblog',
       category: 'Vue.js, VitePress, Vite',
       src: 'chris_pelatari_com_dark.png',
+      description: 'A personal blog built with Vue.js and VitePress, showcasing articles on web development, technology, and more.'
     },
     {
       name: 'Blue Fenix Weblog (light)',
       category: 'Vue.js, VitePress, Vite',
       src: 'chris_pelatari_com_light.png',
+      description: 'A personal blog built with Vue.js and VitePress, showcasing articles on web development, technology, and more.'
     },
     {
       name: 'Done Deal Designs',
       category: 'Small Business Website',
       src: 'donedeal.png',
+      description: 'A small business website for a custom landscape designer and pool builder, showcasing their products and services.'
     },
     {
       name: 'Ned Yousef',
       category: 'Actors Reel Website',
       src: 'nedyousef_com.png',
+      description: 'A personal website for an actor, featuring a portfolio of work, biography, and contact information.'
     },
     {
       name: 'The Skull and Crown',
       category: 'Band Website',
       src: 'theskullandcrown2.png',
+      description: 'A retail website for The Skull and Crown, featuring badass gear for badass biker chicks.'
     },
     {
       name: 'Tuning Model',
       category: 'C#, ASP.NET Core, MVC, SQL Server',
       src: 'tuningmodel.png',
+      description: 'A custom web application for managing and tuning seismic information, built with C#, ASP.NET Core, and SQL Server.'
     },
     {
       name: 'Cancer Couture',
       category: 'Small Business Website',
       src: 'cancercouture.png',
+      description: 'A small business website for Cancer Couture, a company that creates custom experiences for cancer patients.'
     },
     {
       name: 'AJI Roofing TX',
       category: 'Small Business Website',
       src: 'ajiroofingtx_com_dark.png',
+      description: 'A small business website for AJI Roofing TX, showcasing their services and expertise in roofing.'
     },
     {
       name: 'AJI Roofing TX (light)',
       category: 'Small Business Website',
       src: 'ajiroofingtx_com_light.png',
+      description: 'A small business website for AJI Roofing TX, showcasing their services and expertise in roofing.'
     }
   ])
 </script>
