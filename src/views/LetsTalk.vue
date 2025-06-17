@@ -60,6 +60,7 @@
           class="ma-0"
           color="primary"
           type="submit"
+          prepend-icon="mdi-email-outline"
         >
           Contact Me
         </v-btn>
