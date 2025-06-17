@@ -66,13 +66,6 @@
       ]
     },
     {
-      "name": "VB.NET",
-      "level": "6",
-      "keywords": [
-        "VB.NET"
-      ]
-    },
-    {
       "name": "JavaScript",
       "level": "5",
       "keywords": [
@@ -89,15 +82,6 @@
       ]
     },
     {
-      "name": "ASP.NET MVC",
-      "level": "6",
-      "keywords": [
-        "ASP.NET MVC",
-        "MVC",
-        "C#"
-      ]
-    },
-    {
       "name": "ASP.NET Core",
       "level": "6",
       "keywords": [
@@ -107,39 +91,12 @@
       ]
     },
     {
-      "name": "HTML5",
-      "level": "5",
-      "keywords": [
-        "HTML5",
-        "Semantic Markup"
-      ]
-    },
-    {
-      "name": "CSS3",
-      "level": "5",
-      "keywords": [
-        "CSS3",
-        "Responsive Design",
-        "Flexbox",
-        "Grid"
-      ]
-    },
-    {
       "name": "Vue.js",
       "level": "5",
       "keywords": [
         "Vue.js",
         "Reactive",
         "Component-Based"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "level": "5",
-      "keywords": [
-        "Bootstrap",
-        "Responsive",
-        "UI Framework"
       ]
     },
     {
@@ -161,10 +118,10 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "5",
       "keywords": [
-        "MySQL",
+        "PostgreSQL",
         "Relational Database"
       ]
     },
@@ -174,7 +131,8 @@
       "keywords": [
         "Entity Framework",
         "ORM",
-        "LINQ"
+        "LINQ",
+        "Dapper"
       ]
     },
     {
@@ -196,30 +154,12 @@
       ]
     },
     {
-      "name": "Visual Studio Code",
-      "level": "6",
-      "keywords": [
-        "VS Code",
-        "Lightweight IDE",
-        "Extensions"
-      ]
-    },
-    {
       "name": "Git",
       "level": "5",
       "keywords": [
         "Git",
         "Version Control",
         "Branching"
-      ]
-    },
-    {
-      "name": "Agile/Scrum",
-      "level": "5",
-      "keywords": [
-        "Agile",
-        "Scrum",
-        "Iterative Development"
       ]
     },
     {

@@ -13,6 +13,7 @@
     "core-js": "^3.36.1",
     "fs": "^0.0.1-security",
     "roboto-fontface": "*",
+    "sass-loader": "^16.0.5",
     "vue": "^3.4.21",
     "vuetify": "^3.5.13"
   },
@@ -31,7 +32,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-vue": "^9.24.0",
     "pinia": "^2.1.7",
-    "sass": "^1.89.2",
+    "sass-embedded": "^1.89.2",
     "shelljs": "^0.8.5",
     "typescript": "^5.4.3",
     "unplugin-auto-import": "^0.17.5",
