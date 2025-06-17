@@ -23,7 +23,7 @@
 
           <v-card class="pa-3 bg-grey-darken-3">
             <h3 class="font-weight-bold">{{ item.company }}</h3>
-            <div>{{ item.summary }}</div>
+            <div v-html="item.summary"></div>
           </v-card>
         </v-timeline-item>
       </v-timeline>
