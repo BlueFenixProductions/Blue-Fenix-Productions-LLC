@@ -55,43 +55,196 @@
       "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
     },
     {
-      "company": "State University",
-      "position": "Electrical Engineering intern",
-      "website": "http://company.com",
-      "startDate": "2009-01-01",
-      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+      "company": "Velocity Databank, Inc.",
+      "position": "intern to CTO over 22 years",
+      "website": "http://velocitydatabank.com",
+      "startDate": "2001-10-01",
+      "summary": "At Velocity Databank, Inc., I started as an intern and steadily worked my way up to CTO over a 22-year journey. Along the way, I led initiatives that improved our operations and technology, always learning and growing with each challenge."
     }
   ],
   "skills": [
     {
-      "name": "Graphics/Media",
-      "level": 5,
+      "name": "C#",
+      "level": "6",
       "keywords": [
-        "Photoshop",
-        "Illustrator",
-        "Fireworks",
-        "InDesign",
-        "After Effects"
+        "C#",
+        ".NET",
+        "CLR"
       ]
     },
     {
-      "name": "Programming",
-      "level": 6,
+      "name": "VB.NET",
+      "level": "6",
       "keywords": [
-        "Javascript",
-        "PHP/MYSQL",
-        "jQuery",
-        "HTML5/CSS3"
+        "VB.NET"
       ]
     },
     {
-      "name": "Other",
-      "level": 4,
+      "name": "JavaScript",
+      "level": "5",
       "keywords": [
-        "Graphic Design",
-        "Marketing",
-        "Web Design",
-        "Logo Design"
+        "JavaScript",
+        "ES6"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "5",
+      "keywords": [
+        "TypeScript",
+        "Static Typing"
+      ]
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "6",
+      "keywords": [
+        "ASP.NET MVC",
+        "MVC",
+        "C#"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "6",
+      "keywords": [
+        "ASP.NET Core",
+        "RESTful",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "5",
+      "keywords": [
+        "HTML5",
+        "Semantic Markup"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "5",
+      "keywords": [
+        "CSS3",
+        "Responsive Design",
+        "Flexbox",
+        "Grid"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "5",
+      "keywords": [
+        "Vue.js",
+        "Reactive",
+        "Component-Based"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "5",
+      "keywords": [
+        "Bootstrap",
+        "Responsive",
+        "UI Framework"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "5",
+      "keywords": [
+        "Tailwind CSS",
+        "Utility-First",
+        "Responsive"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "6",
+      "keywords": [
+        "SQL Server",
+        "T-SQL",
+        "Database Administration"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "5",
+      "keywords": [
+        "MySQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "Entity Framework",
+      "level": "5",
+      "keywords": [
+        "Entity Framework",
+        "ORM",
+        "LINQ"
+      ]
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "5",
+      "keywords": [
+        "Azure",
+        "Cloud Services",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Visual Studio",
+      "level": "6",
+      "keywords": [
+        "Visual Studio",
+        "IDE",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "level": "6",
+      "keywords": [
+        "VS Code",
+        "Lightweight IDE",
+        "Extensions"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "5",
+      "keywords": [
+        "Git",
+        "Version Control",
+        "Branching"
+      ]
+    },
+    {
+      "name": "Agile/Scrum",
+      "level": "5",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Iterative Development"
+      ]
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "level": "6",
+      "keywords": [
+        "TDD",
+        "Unit Testing",
+        "XUnit"
+      ]
+    },
+    {
+      "name": "RESTful API Design",
+      "level": "6",
+      "keywords": [
+        "REST",
+        "API",
+        "HTTP"
       ]
     }
   ],
@@ -99,7 +252,7 @@
     {
       "name": "Web Development",
       "keywords": [
-        "Exhibits an exceptional mastery of responsive design by seamlessly incorporating modern web standards, ensuring robust, visually appealing interfaces that consistently deliver high-performance user experiences."
+        "I exhibit an exceptional mastery of responsive design by seamlessly incorporating modern web standards, ensuring robust, visually appealing interfaces that consistently deliver high-performance user experiences."
       ]
     },
     {
