@@ -14,7 +14,7 @@
                 My GitHub profile goes back to 2009. Over the years, I've refined my craft through countless projects and contributions, consistently pushing the boundaries of innovation.
             </p>
             <footer class="text-center mt-4">
-              <v-btn color="primary" to="https://chris-jekyll.pelatari.com/Chris_Pelatari_Resume_.docx" target="_blank" class="text-all-uppercase font-weight-bold">
+              <v-btn color="primary" to="/Chris_Pelatari_Resume_.docx" target="_blank" class="text-all-uppercase font-weight-bold">
                 <p class="text-white">download cv</p>
               </v-btn>
             </footer>
