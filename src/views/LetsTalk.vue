@@ -12,10 +12,7 @@
       </Subheading>
 
       <Text class="mb-5">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Fusce vel est interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna. Sest interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna.
+        Our expertise spans web development, design, and digital marketing, offering comprehensive solutions tailored to your business needs. We warmly invite you to reach out and discover how we can help bring your vision to life.
       </Text>
 
       <Subheading class="text-uppercase mb-3">
