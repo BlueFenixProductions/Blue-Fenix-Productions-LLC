@@ -81,7 +81,7 @@
             />
           </template>
           <v-list-item-title class="text-primary">
-            Address
+            Location 
           </v-list-item-title>
           <v-list-item-subtitle>
             {{ schema.basics.location.address }}<br>
