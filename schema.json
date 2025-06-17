@@ -99,25 +99,25 @@
     {
       "name": "Web Development",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "Exhibits an exceptional mastery of responsive design by seamlessly incorporating modern web standards, ensuring robust, visually appealing interfaces that consistently deliver high-performance user experiences."
       ]
     },
     {
-      "name": "Design",
+      "name": "DevOps",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "Skilled in DevOps automation using YAML to define and manage CI/CD pipelines. Proficient with Azure DevOps, AWS CodePipeline, and GitHub Actions to streamline deployments, enforce best practices, and enable robust infrastructure as code."
       ]
     },
     {
-      "name": "Marketing",
+      "name": "Backend Development",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "API development is a cornerstone of modern software architecture, enabling seamless integration, efficient scaling, and robust communication between services. I guarantee the right solution for the scale of your issue."
       ]
     },
     {
       "name": "Support",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "I treat every project, regardless of its size, with equal respect and dedication, ensuring maximum availability."
       ]
     }
   ]
