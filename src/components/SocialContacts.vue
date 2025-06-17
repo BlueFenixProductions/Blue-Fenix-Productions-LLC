@@ -30,7 +30,6 @@
         ...social,
         icon: iconMap.value[key] || 'mdi-account',
       }
-      console.log('social:', _social)
       return _social
     })
   })
