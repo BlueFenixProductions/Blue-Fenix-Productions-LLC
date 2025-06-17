@@ -9,6 +9,11 @@
       class="flex-column fill-height pt-8 mx-0"
       justify="center"
     >
+      <v-avatar
+        class="mb-4"
+        size="128"
+        rounded="0"
+        image="/assets/apple-touch-icon.png"/>
       <h2
         class="text-h2 font-weight-black text-primary mb-2"
       >{{ initials }}</h2>
