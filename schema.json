@@ -1,0 +1,270 @@
+{
+  "basics": {
+    "name": "Chris Pelatari",
+    "label": "Blue Fenix Productions",
+    "picture": "",
+    "email": "chris@bluefenix.net",
+    "phone": "(346) 634-3230",
+    "website": "http://bluefenix.net",
+    "summary": "I'm an experienced software developer with over 2 decades experience crafting full-stack web and desktop applications using dotnet technologies including C# and VB.NET. Lately, I've been diving into TypeScript and Node.js, often paired with an ASP.NET Core backend. I'm also proud to be a former Microsoft MVP and a member of the AspInsiders community.",
+    "location": {
+      "address": "",
+      "postalCode": "TX 77449",
+      "city": "Katy",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "blog",
+        "username": "chris",
+        "url": "https://chris.pelatari.com/about"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "chris-pelatari",
+        "url": "https://linkedin.com/in/chris-pelatari"
+      },
+      {
+        "network": "Github",
+        "username": "ChrisPelatari",
+        "url": "https://github.com/ChrisPelatari"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Blue Fenix Productions",
+      "position": "Founder and Lead Developer",
+      "website": "http://bluefenix.net",
+      "startDate": "2025-01-01",
+      "summary": "At Blue Fenix Productions, I guide projects such as <a href='https://cancer-couture.com'>Cancer Couture</a>, blending creative ideas with technology. These projects are a way to build reliable solutions while continually refining my technical skills."
+    },
+    {
+      "company": "Cardinal Health",
+      "position": "Senior Software Engineer",
+      "website": "http://cardinalhealth.com",
+      "startDate": "2024-03-01",
+      "summary": "At Cardinal Health, I spearheaded the modernization of legacy systems and led cross-functional teams to deliver high-impact digital transformation projects. I optimized system performance, integrated robust DevOps practices, and enhanced CI/CD workflows, significantly improving product reliability and operational efficiency."
+    },
+    {
+      "company": "Velocity Databank, Inc.",
+      "position": "intern to CTO over 22 years",
+      "website": "http://velocitydatabank.com",
+      "startDate": "2001-10-01",
+      "summary": "At <a href='https://velocitydatabank.com'>Velocity Databank, Inc.</a>, I started as an intern and steadily worked my way up to CTO over a 22-year journey. Along the way, I led initiatives that improved our operations and technology, always learning and growing with each challenge."
+    }
+  ],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "6",
+      "keywords": [
+        "C#",
+        ".NET",
+        "CLR"
+      ]
+    },
+    {
+      "name": "VB.NET",
+      "level": "6",
+      "keywords": [
+        "VB.NET"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "5",
+      "keywords": [
+        "JavaScript",
+        "ES6"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "5",
+      "keywords": [
+        "TypeScript",
+        "Static Typing"
+      ]
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "6",
+      "keywords": [
+        "ASP.NET MVC",
+        "MVC",
+        "C#"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "6",
+      "keywords": [
+        "ASP.NET Core",
+        "RESTful",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "5",
+      "keywords": [
+        "HTML5",
+        "Semantic Markup"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "5",
+      "keywords": [
+        "CSS3",
+        "Responsive Design",
+        "Flexbox",
+        "Grid"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "5",
+      "keywords": [
+        "Vue.js",
+        "Reactive",
+        "Component-Based"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "5",
+      "keywords": [
+        "Bootstrap",
+        "Responsive",
+        "UI Framework"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "5",
+      "keywords": [
+        "Tailwind CSS",
+        "Utility-First",
+        "Responsive"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "6",
+      "keywords": [
+        "SQL Server",
+        "T-SQL",
+        "Database Administration"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "5",
+      "keywords": [
+        "MySQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "Entity Framework",
+      "level": "5",
+      "keywords": [
+        "Entity Framework",
+        "ORM",
+        "LINQ"
+      ]
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "5",
+      "keywords": [
+        "Azure",
+        "Cloud Services",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Visual Studio",
+      "level": "6",
+      "keywords": [
+        "Visual Studio",
+        "IDE",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "level": "6",
+      "keywords": [
+        "VS Code",
+        "Lightweight IDE",
+        "Extensions"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "5",
+      "keywords": [
+        "Git",
+        "Version Control",
+        "Branching"
+      ]
+    },
+    {
+      "name": "Agile/Scrum",
+      "level": "5",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Iterative Development"
+      ]
+    },
+    {
+      "name": "Test-Driven Development (TDD)",
+      "level": "6",
+      "keywords": [
+        "TDD",
+        "Unit Testing",
+        "XUnit"
+      ]
+    },
+    {
+      "name": "RESTful API Design",
+      "level": "6",
+      "keywords": [
+        "REST",
+        "API",
+        "HTTP"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "I exhibit an exceptional mastery of responsive design by seamlessly incorporating modern web standards, ensuring robust, visually appealing interfaces that consistently deliver high-performance user experiences."
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Skilled in DevOps automation using YAML to define and manage CI/CD pipelines. Proficient with Azure DevOps, AWS CodePipeline, and GitHub Actions to streamline deployments, enforce best practices, and enable robust infrastructure as code."
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "API development is a cornerstone of modern software architecture, enabling seamless integration, efficient scaling, and robust communication between services. I guarantee the right solution for the scale of your issue."
+      ]
+    },
+    {
+      "name": "Support",
+      "keywords": [
+        "I treat every project, regardless of its size, with equal respect and dedication, ensuring maximum availability."
+      ]
+    }
+  ]
+}
