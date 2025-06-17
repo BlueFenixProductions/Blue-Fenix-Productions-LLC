@@ -2,7 +2,7 @@
   <v-img
     class="abstract-2"
     min-width="778"
-    mmin-height="711"
+    min-height="711"
     src="/assets/abstract2.png"
   />
 </template>
