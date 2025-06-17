@@ -29,7 +29,7 @@
       name: 'Velocity Databank, Inc.',
       category: 'ASP.NET MVC, SQL Server, Azure',
       src: 'vdb.png',
-      description: 'A custom CRM and order management system for a family owned oil and gas exploration company. Full scale ASP.NET MVC Application backed by Sql Server and hosted on Azure <img src="/assets/svgs/brands/10261-icon-service-Azure-DevOps.svg" class="inline-block w-6 h-6">'
+      description: 'A custom CRM and order management system for a family owned oil and gas exploration company. Full scale ASP.NET MVC Application backed by Sql Server and hosted on Azure.'
     },
     {
       name: 'VelSys',
