@@ -19,8 +19,11 @@
         Send me a Message
       </Subheading>
 
-      <v-form>
-        <v-text-field
+      <v-form ref="form" @submit.prevent="generateMailtoLink">
+        <v-text-field 
+          v-model="form.name"
+          required
+          outlined
           density="compact"
           label="Name"
           variant="solo-inverted"
@@ -28,6 +31,8 @@
         />
 
         <v-text-field
+          v-model="form.email"
+          required
           density="compact"
           label="Email"
           variant="solo-inverted"
@@ -35,6 +40,7 @@
         />
 
         <v-text-field
+          v-model="form.subject"
           density="compact"
           label="Subject"
           variant="solo-inverted"
@@ -42,6 +48,8 @@
         />
 
         <v-textarea
+          v-model="form.message"
+          required
           density="compact"
           label="Message"
           variant="solo-inverted"
@@ -51,6 +59,7 @@
         <v-btn
           class="ma-0"
           color="primary"
+          type="submit"
         >
           Contact Me
         </v-btn>
@@ -127,7 +136,24 @@
   </Section>
 </template>
 
-<script setup lang="ts">
-  import { useAppStore } from '@/stores/app'
-  const { schema } = useAppStore()
+<script setup>
+import { ref } from 'vue';
+import { useAppStore } from '@/stores/app'
+const { schema } = useAppStore()
+
+const form = ref({
+  name: '',
+  email: '',
+  subject: '',
+  message: ''
+})
+
+const generateMailtoLink = () => {
+  const subject = encodeURIComponent(`Contact Form Submission from ${form.value.name}`);
+  const body = encodeURIComponent(
+    `Name: ${form.value.name}\nEmail: ${form.value.email}\nMessage:\n${form.value.message}`
+  );
+  const mailtoLink = `mailto:chris@bluefenix.net?subject=${form.value.subject}&body=${body}`;
+  window.location.href = mailtoLink;
+};
 </script>
