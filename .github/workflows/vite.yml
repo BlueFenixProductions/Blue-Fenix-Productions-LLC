@@ -40,7 +40,7 @@ jobs:
       - name: Version
         run: yarn run v
       - name: Build
-        run: vite build
+        run: yarn run build
       - name: Setup Pages
         uses: actions/configure-pages@main
       - name: Upload artifact
