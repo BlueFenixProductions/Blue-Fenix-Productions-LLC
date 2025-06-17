@@ -98,6 +98,7 @@
     value: {
       name: string
       category: string
+      description?: string
       src: any
     }
   }

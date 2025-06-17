@@ -27,7 +27,8 @@
     "types": [
       "vite/client",
       "vite-plugin-vue-layouts/client",
-      "unplugin-vue-router/client"
+      "unplugin-vue-router/client",
+      "node"
     ],
     "strict": true,
     "strictNullChecks": true,
@@ -39,7 +40,6 @@
   },
   "include": [
     "./typed-router.d.ts",
-    "./vite.config.*",
     "./env.d.ts",
     "./shims.d.ts",
     "./src/**/*",
@@ -50,6 +50,7 @@
   ],
   "exclude": [
     "./dist",
+    "./vite.config.*",
     "./node_modules"
   ],
   "references": [{ "path": "./tsconfig.node.json" }],
