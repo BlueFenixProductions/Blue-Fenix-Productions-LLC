@@ -69,7 +69,7 @@
     },
     {
       name: 'The Skull and Crown',
-      category: 'Band Website',
+      category: 'Retail Website',
       src: 'theskullandcrown2.png',
       description: 'A retail website for The Skull and Crown, featuring badass gear for badass biker chicks.'
     },
