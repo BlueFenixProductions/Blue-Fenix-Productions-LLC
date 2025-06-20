@@ -40,6 +40,8 @@ jobs:
       - name: Version
         run: yarn run v
       - name: Build
+        env:
+          VITE_GITHUB_TOKEN: ${{ secrets.VITE_GITHUB_TOKEN }}
         run: yarn run build
       - name: Setup Pages
         uses: actions/configure-pages@main
