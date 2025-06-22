@@ -78,7 +78,7 @@
 
       <v-img
         class="pointer-none"
-        min-height="600"
+        min-height="500"
         min-width="550"
         src="/assets/chrispelatari.png"
         style="right: 0; position: absolute; top: 300px; "
