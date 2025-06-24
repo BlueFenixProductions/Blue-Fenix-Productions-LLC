@@ -52,12 +52,16 @@
               <div
                 class="mb-3"
               >United States</div>
+              <a :href="`mailto:${schema.basics.email}`" class="text-truncate">
               <div
                 class="mb-3 text-truncate"
               >{{ schema.basics.email }}</div>
+              </a>
+              <a :href="`tel:${schema.basics.phone}`" class="text-truncate">
               <div
                 class="mb-3"
               >{{ schema.basics.phone }}</div>
+              </a>
             </v-col>
           </v-row>
         </v-col>

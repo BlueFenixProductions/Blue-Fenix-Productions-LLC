@@ -110,7 +110,11 @@
           <v-list-item-title class="text-primary">
             Email
           </v-list-item-title>
-          <v-list-item-subtitle>{{ schema.basics.email }}</v-list-item-subtitle>
+            <v-list-item-subtitle>
+            <a :href="`mailto:${schema.basics.email}`" class="text-primary">
+              {{ schema.basics.email }}
+            </a>
+            </v-list-item-subtitle>
         </v-list-item>
         <v-list-item>
           <template #prepend>
@@ -123,7 +127,11 @@
           <v-list-item-title class="text-primary">
             Phone
           </v-list-item-title>
-          <v-list-item-subtitle>{{ schema.basics.phone }}</v-list-item-subtitle>
+            <v-list-item-subtitle>
+            <a :href="`tel:${schema.basics.phone}`" class="text-primary">
+              {{ schema.basics.phone }}
+            </a>
+            </v-list-item-subtitle>
         </v-list-item>
       </v-list>
     </v-col>

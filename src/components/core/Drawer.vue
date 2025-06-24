@@ -15,7 +15,7 @@
         rounded="0"
         image="/assets/apple-touch-icon.png"/>
       <h2
-        class="text-h2 font-weight-black text-primary mb-2"
+        class="text-h2 font-weight-black text-accent mb-2"
       >{{ initials }}</h2>
       <div
         class="text-h4 mb-2"
