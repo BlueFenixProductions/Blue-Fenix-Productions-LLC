@@ -4,7 +4,7 @@
 
     <v-col cols="12">
       <v-row justify="space-between">
-        <Heading cols="auto">
+        <Heading cols="auto" color="secondary">
           What I know.
         </Heading>
         <div id="gh" data-login="ChrisPelatari">
@@ -211,7 +211,6 @@ function init_thumbnail() {
     thumbNailIcon.className = "mdi-github mdi v-icon"
     //link to gh-contrib-graph
     thumbNailText.textContent = "gh-contrib-graph"
-    //thumbNailText.style.marginLeft = "-13px"
     thumbNailLink.appendChild(thumbNailIcon)
     thumbNailLink.appendChild(thumbNailText)
     thumbnail.appendChild(thumbNailLink)

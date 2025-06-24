@@ -78,8 +78,9 @@
 
       <v-img
         class="pointer-none"
-        min-height="500"
-        min-width="550"
+        min-height="600"
+        max-width="385"
+        width="70%"
         src="/assets/chrispelatari.png"
         style="right: 0; position: absolute; top: 300px; "
         cover

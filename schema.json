@@ -183,27 +183,21 @@
   ],
   "interests": [
     {
-      "name": "Web Development",
+      "name": "Project-Based Services",
       "keywords": [
-        "I exhibit an exceptional mastery of responsive design by seamlessly incorporating modern web standards, ensuring robust, visually appealing interfaces that consistently deliver high-performance user experiences."
+"<h4>Your Vision. Our Expertise. Seamless Results.</h4><p>Have a specific tech challenge or software development project in mind? At Blue Fenix Productions, we translate your goals into robust digital solutions—smoothly, swiftly, and stress-free.</p><p>Whether you’re launching a new app, upgrading your infrastructure, or modernizing existing systems, our senior-level engineers are ready to partner closely with your team to deliver precisely tailored solutions.</p><p>Let’s talk about your project and how we can help you succeed. Request your personalized quote today - clarity, confidence, and zero obligation."
       ]
     },
     {
       "name": "DevOps",
       "keywords": [
-        "Skilled in DevOps automation using YAML to define and manage CI/CD pipelines. Proficient with Azure DevOps, AWS CodePipeline, and GitHub Actions to streamline deployments, enforce best practices, and enable robust infrastructure as code."
+        "<p>We are skilled in DevOps automation using YAML to define and manage CI/CD pipelines. Our proficiency with Azure DevOps, AWS CodePipeline, and GitHub Actions streamline deployments, enforce best practices, and enable robust infrastructure as code.</p><strong>Hourly Rate: $150</strong>"
       ]
     },
     {
-      "name": "Backend Development",
+      "name": "Frontend or Backend Development",
       "keywords": [
-        "API development is a cornerstone of modern software architecture, enabling seamless integration, efficient scaling, and robust communication between services. I guarantee the right solution for the scale of your issue."
-      ]
-    },
-    {
-      "name": "Support",
-      "keywords": [
-        "I treat every project, regardless of its size, with equal respect and dedication, ensuring maximum availability."
+        "<p>API development is a cornerstone of modern software architecture, enabling seamless integration, efficient scaling, and robust communication between services. Complemented by expert frontend development using Vue.js, React, Angular, or Blazor, I guarantee the right solution tailored precisely to the scale of your issue.</p><strong>Hourly Rate: $150</strong>"
       ]
     }
   ]
