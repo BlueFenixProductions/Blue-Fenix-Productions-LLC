@@ -22,62 +22,11 @@
           <Text>
             <div v-html="value.description || 'default project description'"></div>
           </Text>
-
-          <Subheading>
-            Project Info
-          </Subheading>
-          <v-list class="bg-transparent">
-            <v-list-item>
-              <template #prepend>
-                <v-icon color="primary">
-                  mdi-account
-                </v-icon>
-              </template>
-              <v-list-item-title class="mr-2">
-                Client Name
-              </v-list-item-title>
-              <template #append>
-                <v-list-item-title class="caption text-grey-lighten-1 hidden-sm-and-down">
-                  the clients name
-                </v-list-item-title>
-              </template>
-            </v-list-item>
-            <v-list-item>
-              <template #prepend>
-                <v-icon color="primary">
-                  mdi-calendar
-                </v-icon>
-              </template>
-              <v-list-item-title class="mr-2">
-                Project Dates
-              </v-list-item-title>
-              <template #append>
-                <v-list-item-title class="caption text-grey-lighten-1 hidden-sm-and-down">
-                  date, date
-                </v-list-item-title>
-              </template>
-            </v-list-item>
-            <v-list-item>
-              <template #prepend>
-                <v-icon color="primary">
-                  mdi-tag
-                </v-icon>
-              </template>
-              <v-list-item-title class="mr-2">
-                Project Category
-              </v-list-item-title>
-              <template #append>
-                <v-list-item-title class="caption text-grey-lighten-1 hidden-sm-and-down">
-                  category, category, category
-                </v-list-item-title>
-              </template>
-            </v-list-item>
-          </v-list>
         </div>
       </v-col>
       <v-col
         v-if="value.src"
-        class="hidden-sm-and-down align-self-center"
+        class="align-self-center"
         cols="12"
         md="6"
       >
