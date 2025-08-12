@@ -66,18 +66,11 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "5",
-      "keywords": [
-        "JavaScript",
-        "ES6"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "5",
       "keywords": [
         "TypeScript",
+        "JavaScript",
         "Static Typing"
       ]
     },
@@ -92,11 +85,20 @@
     },
     {
       "name": "Vue.js",
-      "level": "5",
+      "level": "6",
       "keywords": [
         "Vue.js",
         "Reactive",
         "Component-Based"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "5",
+      "keywords": [
+        "React",
+        "Component-Based",
+        "Virtual DOM"
       ]
     },
     {
@@ -126,58 +128,12 @@
       ]
     },
     {
-      "name": "Entity Framework",
-      "level": "5",
-      "keywords": [
-        "Entity Framework",
-        "ORM",
-        "LINQ",
-        "Dapper"
-      ]
-    },
-    {
       "name": "Microsoft Azure",
       "level": "5",
       "keywords": [
         "Azure",
         "Cloud Services",
         "DevOps"
-      ]
-    },
-    {
-      "name": "Visual Studio",
-      "level": "6",
-      "keywords": [
-        "Visual Studio",
-        "IDE",
-        "Debugging"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "5",
-      "keywords": [
-        "Git",
-        "Version Control",
-        "Branching"
-      ]
-    },
-    {
-      "name": "Test-Driven Development (TDD)",
-      "level": "6",
-      "keywords": [
-        "TDD",
-        "Unit Testing",
-        "XUnit"
-      ]
-    },
-    {
-      "name": "RESTful API Design",
-      "level": "6",
-      "keywords": [
-        "REST",
-        "API",
-        "HTTP"
       ]
     }
   ],
