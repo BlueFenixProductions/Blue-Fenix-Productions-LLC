@@ -7,7 +7,7 @@
     <div class="text-center mb-5">
       <Subheading
         class="mb-1"
-      >{{ value.name }}</Subheading>
+      ><a :href="value.link">{{ value.name }}</a></Subheading>
       <span>{{ value.category }}</span>
     </div>
     <v-row>
@@ -47,6 +47,7 @@
     value: {
       name: string
       category: string
+      link?: string
       description?: string
       src: any
     }
