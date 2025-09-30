@@ -48,6 +48,7 @@
       name: string
       category: string
       link?: string
+      
       description?: string
       src: any
     }

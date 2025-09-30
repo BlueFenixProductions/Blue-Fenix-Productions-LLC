@@ -70,49 +70,49 @@ import { useDisplay } from 'vuetify'
 const { mdAndUp } = useDisplay()
 
 const plans = [
-  {
-    name: 'Project Quote',
-    logo: 'mdi-comment-quote-outline',
-    monthlyPrice: 'Free',
+    {
+    name: 'Managed AI & IT Bundle',
+    logo: 'mdi-robot',
+    monthlyPrice: 250,
     current: false,
-    free: true,
+    free: false,
     action: () => {
-      window.location.href = 'mailto:support@bluefenix.net?subject=Project%20Quote%20Request&body=Please%20provide%20details%20about%20your%20project%20so%20we%20can%20give%20you%20a%20quote.';
+      window.location.href = 'mailto:chris@bluefenix.net?subject=Managed%20AI%20%26%20IT%20Bundle%20Inquiry';
     },
     features: [
-      'Custom Project Estimates',
-      'Expert Tech Solutions, Tailored for You.',
-      'We turn your ideas into clear, robust digital solutions.'
+      'AI chatbot for your site (trained on your docs)',
+      'Microsoft 365 or Google Workspace management',
+      'Includes $500 one-time setup'
     ]
   },
   {
-    name: 'On-Call IT Support: Premium Package',
-    logo: 'mdi-server-security',
-    monthlyPrice: 2250,
+    name: 'Fractional Dev / CTO',
+    logo: 'mdi-account-cog-outline',
+    monthlyPrice: 1500,
     current: true,
+    free: false,
     action: () => {
-      window.location.href = 'https://buy.stripe.com/eVq8wR8Neai77Hw3GM8Zq01';
+      window.location.href = 'mailto:chris@bluefenix.net?subject=Fractional%20Dev%20%2F%20CTO%20Inquiry';
     },
     features: [
-      '24/7 Availability',
-      'Remote Assistance',
-      'Proactive Monitoring',
-      'Priority Response SLA'
+      '10 hours / month (coding, bug fixes, scoping)',
+      'Code reviews & technical guidance',
+      'Priority async support (Slack / email / Zoom)'
     ]
   },
   {
-    name: 'On-Call IT Support: Basic Package',
-    logo: 'mdi-application-brackets-outline',
-    monthlyPrice: 800,
+    name: 'Digital Kits & Templates',
+    logo: 'mdi-package-variant-closed',
+    monthlyPrice: 99,
     current: false,
+    free: false,
     action: () => {
-      window.location.href = 'https://buy.stripe.com/5kQ5kF5B29e38LA1yE8Zq00';
+      window.location.href = 'mailto:chris@bluefenix.net?subject=Digital%20Kits%20%26%20Templates%20Inquiry';
     },
     features: [
-      'Business Hours Support',
-      'Email and Phone Support',
-      'Basic Troubleshooting',
-      'Quick Response SLA'
+      'Docker-Compose AI Server Kit for Law Firms — $99',
+      'Oil & Gas Risk Dashboard Template — $149',
+      '.NET 8 + Vue 3 Starter Pack — $79'
     ]
   }
 ]

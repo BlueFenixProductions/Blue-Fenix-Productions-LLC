@@ -84,33 +84,6 @@
       ]
     },
     {
-      "name": "Vue.js",
-      "level": "6",
-      "keywords": [
-        "Vue.js",
-        "Reactive",
-        "Component-Based"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "5",
-      "keywords": [
-        "React",
-        "Component-Based",
-        "Virtual DOM"
-      ]
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "5",
-      "keywords": [
-        "Tailwind CSS",
-        "Utility-First",
-        "Responsive"
-      ]
-    },
-    {
       "name": "SQL Server",
       "level": "6",
       "keywords": [

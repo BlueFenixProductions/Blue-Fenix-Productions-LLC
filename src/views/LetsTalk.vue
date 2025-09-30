@@ -8,15 +8,15 @@
       md="5"
     >
       <Subheading class="text-uppercase">
-        What can I do for you?
+        Let’s make your tech work for you.
       </Subheading>
 
       <Text class="mb-5">
-        Our expertise spans web development, design, and digital marketing, offering comprehensive solutions tailored to your business needs. We warmly invite you to reach out and discover how we can help bring your vision to life.
+        No pressure. Tell me what you’re trying to achieve and I’ll suggest the simplest path.
       </Text>
 
       <Subheading class="text-uppercase mb-3">
-        Send me a Message
+        Email Chris
       </Subheading>
 
       <v-form ref="form" @submit.prevent="generateMailtoLink">
