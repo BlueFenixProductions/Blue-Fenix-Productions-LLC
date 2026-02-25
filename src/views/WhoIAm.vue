@@ -80,7 +80,7 @@
         class="text-primary text-h5 font-weight-light text-uppercase"
       >{{ schema.basics.name }}</span>
 
-      <v-img
+      <!-- <v-img
         class="pointer-none"
         min-height="600"
         max-width="385"
@@ -88,7 +88,7 @@
         src="/assets/chrispelatari.png"
         style="right: 0; position: absolute; top: 300px; "
         cover
-      />
+      /> -->
     </v-col>
   </Section>
 </template>

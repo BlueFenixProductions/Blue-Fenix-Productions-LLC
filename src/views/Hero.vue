@@ -40,7 +40,7 @@
 
           <!-- CTAs -->
           <div class="mt-5 d-flex ga-3 justify-end">
-            <v-btn
+            <!-- <v-btn
               color="primary"
               class="font-weight-bold"
               variant="elevated"
@@ -48,7 +48,7 @@
               href="#what-i-can-do-for-you"
             >
               See Packages
-            </v-btn>
+            </v-btn> -->
             <v-btn
               color="secondary"
               variant="outlined"

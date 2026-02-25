@@ -8,7 +8,7 @@
     >
       <WhoIAm />
 
-      <WhatICanDoForYou />
+      <!-- <WhatICanDoForYou /> -->
 
       <WhereIveBeen />
 
