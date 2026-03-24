@@ -41,6 +41,9 @@ jobs:
         run: yarn run v
       - name: Build
         env:
+          # This secret lives on the github-pages ENVIRONMENT (not repo-level).
+          # To update: Repo Settings > Environments > github-pages > Secrets
+          # Token requires read:user scope. Expires every 90 days.
           VITE_GITHUB_TOKEN: ${{ secrets.VITE_GITHUB_TOKEN }}
         run: yarn run build
       - name: Setup Pages

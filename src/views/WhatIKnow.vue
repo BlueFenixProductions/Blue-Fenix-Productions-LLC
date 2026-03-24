@@ -49,50 +49,52 @@ onMounted(() => {
   main()
 })
 
-async function fetchData(ghLogin: string | undefined) { 
-  const data = 
-        await fetch('https://api.github.com/graphql', {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${import.meta.env.VITE_GITHUB_TOKEN}`,
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            query: `
-              query($login: String!) {
-                user(login: $login) {
-                  contributionsCollection {
-                    contributionCalendar {
-                      totalContributions
-                      months {
-                        name
-                        totalWeeks
-                      }
-                      weeks {
-                        contributionDays {
-                          date
-                          contributionCount
-                          contributionLevel
-                          weekday
-                        }
-                      }
-                      colors
-                    }
-                  }
-                  avatarUrl
+async function fetchData(ghLogin: string | undefined) {
+  const response = await fetch('https://api.github.com/graphql', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${import.meta.env.VITE_GITHUB_TOKEN}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      query: `
+        query($login: String!) {
+          user(login: $login) {
+            contributionsCollection {
+              contributionCalendar {
+                totalContributions
+                months {
+                  name
+                  totalWeeks
                 }
+                weeks {
+                  contributionDays {
+                    date
+                    contributionCount
+                    contributionLevel
+                    weekday
+                  }
+                }
+                colors
               }
-            `,
-            variables: {
-              login: ghLogin
             }
-          })
-        })
-        .then(response => response.json())
-        .then(data => data)
-        .catch(error => console.error('Error fetching data:', error));
+            avatarUrl
+          }
+        }
+      `,
+      variables: {
+        login: ghLogin
+      }
+    })
+  })
 
-  return data["data"]["user"]
+  if (!response.ok) {
+    console.error(`GitHub API error: ${response.status}`)
+    return null
+  }
+
+  const data = await response.json()
+  return data?.data?.user ?? null
 }
 
 function init_table() {
@@ -225,6 +227,16 @@ async function main() {
   }
   const ghLogin = container.dataset.login;
   const data = await fetchData(ghLogin)
+
+  if (!data) {
+    const fallback = document.createElement("a")
+    fallback.href = `https://github.com/${ghLogin}`
+    fallback.textContent = `View ${ghLogin}'s GitHub profile`
+    fallback.style.color = "var(--gh-text-inactive-color)"
+    container.appendChild(fallback)
+    return
+  }
+
   const calendar = data["contributionsCollection"]["contributionCalendar"]
   const [table, thead, tbody] = init_table()
   const card = init_card()

@@ -1,0 +1,32 @@
+name: Check GitHub Token Health
+
+on:
+  schedule:
+    # Runs every Monday at 9am UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check-token:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Test GitHub token
+        env:
+          VITE_GITHUB_TOKEN: ${{ secrets.VITE_GITHUB_TOKEN }}
+        run: |
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer $VITE_GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"query":"{ viewer { login } }"}' \
+            https://api.github.com/graphql)
+
+          if [ "$STATUS" != "200" ]; then
+            echo "::error::GitHub token is invalid or expired (HTTP $STATUS)"
+            echo "Update the VITE_GITHUB_TOKEN secret in the github-pages environment:"
+            echo "  Repo Settings > Environments > github-pages > Secrets"
+            exit 1
+          fi
+
+          echo "Token is valid (HTTP $STATUS)"
