@@ -49,7 +49,26 @@ onMounted(() => {
   main()
 })
 
-async function fetchData(ghLogin: string | undefined) {
+const CACHE_KEY = 'gh-contrib-cache'
+const CACHE_TTL = 1000 * 60 * 60 // 1 hour
+
+function getCached(): any | null {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY)
+    if (!raw) return null
+    const { data, ts } = JSON.parse(raw)
+    if (Date.now() - ts > CACHE_TTL) return null
+    return data
+  } catch { return null }
+}
+
+function setCache(data: any) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ data, ts: Date.now() }))
+  } catch { /* quota exceeded — ignore */ }
+}
+
+async function fetchFromAPI(ghLogin: string | undefined) {
   const response = await fetch('https://api.github.com/graphql', {
     method: 'POST',
     headers: {
@@ -93,8 +112,30 @@ async function fetchData(ghLogin: string | undefined) {
     return null
   }
 
-  const data = await response.json()
-  return data?.data?.user ?? null
+  const json = await response.json()
+  if (json.errors) {
+    console.error(`GitHub GraphQL error: ${json.errors[0].message}`)
+    return null
+  }
+
+  return json?.data?.user ?? null
+}
+
+async function fetchData(ghLogin: string | undefined) {
+  const cached = getCached()
+  if (cached) return cached
+
+  const data = await fetchFromAPI(ghLogin)
+  if (data) {
+    setCache(data)
+    return data
+  }
+
+  // Retry once after 1s on failure (rate limit, transient error)
+  await new Promise(r => setTimeout(r, 1000))
+  const retry = await fetchFromAPI(ghLogin)
+  if (retry) setCache(retry)
+  return retry
 }
 
 function init_table() {
