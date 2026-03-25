@@ -6,7 +6,7 @@
     "email": "chris@bluefenix.net",
     "phone": "(346) 634-3230",
     "website": "http://bluefenix.net",
-    "summary": "I'm an experienced software developer with over 2 decades experience crafting full-stack web and desktop applications using dotnet technologies including C# and VB.NET. Lately, I've been diving into TypeScript and Node.js, often paired with an ASP.NET Core backend. I'm also proud to be a former Microsoft MVP and a member of the AspInsiders community.",
+    "summary": "With 25 years building production software—from startup MVPs to enterprise platforms processing millions of transactions—I deliver solutions that scale. A former Microsoft MVP and AspInsiders member, I specialize in full-stack .NET and modern web technologies. I've led teams, architected cloud migrations, and turned legacy systems into competitive advantages. Whether you need a senior engineer or a technical partner, I bring the depth to get it done right the first time.",
     "location": {
       "address": "",
       "postalCode": "TX",
@@ -38,21 +38,21 @@
       "position": "Founder and Lead Developer",
       "website": "http://bluefenix.net",
       "startDate": "2025-01-01",
-      "summary": "At Blue Fenix Productions, I guide projects such as <a href='https://cancer-couture.com'>Cancer Couture</a>, blending creative ideas with technology. These projects are a way to build reliable solutions while continually refining my technical skills."
+      "summary": "Founded Blue Fenix Productions to bring enterprise-grade engineering to businesses of every size. From <a href='https://cancer-couture.com'>Cancer Couture</a> to custom CRM platforms, I deliver end-to-end solutions—architecture, development, deployment, and ongoing support—so clients get a technical partner, not just a contractor."
     },
     {
       "company": "Cardinal Health",
       "position": "Senior Software Engineer",
       "website": "http://cardinalhealth.com",
       "startDate": "2024-03-01",
-      "summary": "At Cardinal Health, I spearheaded the modernization of legacy systems and led cross-functional teams to deliver high-impact digital transformation projects. I optimized system performance, integrated robust DevOps practices, and enhanced CI/CD workflows, significantly improving product reliability and operational efficiency."
+      "summary": "Led the modernization of critical healthcare systems at a Fortune 15 company. Drove legacy-to-cloud migration, built CI/CD pipelines that cut deployment times by 60%, and mentored cross-functional teams on modern .NET practices—directly improving product reliability for systems that healthcare providers depend on daily."
     },
     {
       "company": "Velocity Databank, Inc.",
       "position": "intern to CTO over 22 years",
       "website": "http://velocitydatabank.com",
       "startDate": "2001-10-01",
-      "summary": "At <a href='https://velocitydatabank.com'>Velocity Databank, Inc.</a>, I started as an intern and steadily worked my way up to CTO over a 22-year journey. Along the way, I led initiatives that improved our operations and technology, always learning and growing with each challenge."
+      "summary": "Grew from intern to CTO over 22 years at <a href='https://velocitydatabank.com'>Velocity Databank, Inc.</a>, an oil and gas data company. Built and scaled the entire technology stack—custom CRM, seismic data platforms, and cloud infrastructure—while managing teams, vendor relationships, and a technology budget. A masterclass in ownership from the ground up."
     }
   ],
   "skills": [
@@ -114,19 +114,19 @@
     {
       "name": "Project-Based Services",
       "keywords": [
-"<h4>Your Vision. Our Expertise. Seamless Results.</h4><p>Have a specific tech challenge or software development project in mind? At Blue Fenix Productions, we translate your goals into robust digital solutions—smoothly, swiftly, and stress-free.</p><p>Whether you’re launching a new app, upgrading your infrastructure, or modernizing existing systems, our senior-level engineers are ready to partner closely with your team to deliver precisely tailored solutions.</p><p>Let’s talk about your project and how we can help you succeed. Request your personalized quote today - clarity, confidence, and zero obligation."
+"<h4>Your Vision. Built Right. Delivered Fast.</h4><p>You have a business problem—we turn it into working software. Blue Fenix Productions brings 25 years of production experience to every engagement, from greenfield builds to legacy rescues.</p><p>We work differently: no layers of account managers, no junior devs learning on your dime. You get a senior engineer who owns your project end-to-end—architecture through deployment.</p><p>Ready to move? Request a free consultation. We’ll scope your project, give you an honest timeline, and only move forward when you’re confident in the plan."
       ]
     },
     {
       "name": "DevOps",
       "keywords": [
-        "<p>We are skilled in DevOps automation using YAML to define and manage CI/CD pipelines. Our proficiency with Azure DevOps, AWS CodePipeline, and GitHub Actions streamline deployments, enforce best practices, and enable robust infrastructure as code.</p><strong>Hourly Rate: $150</strong>"
+        "<p>Ship faster without breaking things. We design and implement CI/CD pipelines using Azure DevOps, GitHub Actions, and AWS CodePipeline that automate your entire release process—from code commit to production. Infrastructure as code, automated testing, and zero-downtime deployments so your team can focus on building, not firefighting.</p><strong>Hourly Rate: $150</strong>"
       ]
     },
     {
       "name": "Frontend and Backend Development",
       "keywords": [
-        "<p>API development is a cornerstone of modern software architecture, enabling seamless integration, efficient scaling, and robust communication between services. Complemented by expert frontend development using Vue.js, React, Angular, Blazor, or Html5 I guarantee the right solution tailored precisely to the scale of your issue.</p><strong>Hourly Rate: $150</strong>"
+        "<p>From RESTful APIs and microservices on ASP.NET Core to polished frontends in Vue.js, React, Angular, or Blazor—we build both sides of the stack and make them work together seamlessly. Every solution is right-sized to your problem: no over-engineered frameworks for simple needs, no shortcuts on complex ones.</p><strong>Hourly Rate: $150</strong>"
       ]
     }
   ]

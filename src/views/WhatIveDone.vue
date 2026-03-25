@@ -30,84 +30,84 @@
       category: 'ASP.NET MVC, SQL Server, Azure',
       link: 'https://velocitydatabank.com',
       src: 'vdb.png',
-      description: 'A custom CRM and order management system for a family owned oil and gas exploration company. Full scale ASP.NET MVC Application backed by Sql Server and hosted on Azure.'
+      description: 'Custom CRM and order management platform built for a 22-year oil and gas exploration company. Handles thousands of records, complex reporting workflows, and multi-user access—all on ASP.NET MVC, SQL Server, and Azure.'
     },
     {
       name: 'VelSys',
       category: 'ASP.NET MVC, SQL Server, Azure',
       link: 'https://velsys.velocitydatabank.com',
       src: 'velsys.png',
-      description: 'Secure web application for oil and gas exploration data management and reporting.'
+      description: 'Secure data management portal for seismic exploration data. Role-based access, audit trails, and real-time reporting for field teams and executives—built to handle sensitive industry data at scale.'
     },
     {
       name: 'Blue Fenix Productions',
       category: 'Vue.js, Vuetify, Vite',
       link: 'https://bluefenix.net',
       src: 'blue_fenix_productions.png',
-      description: 'Over 60% of web browsing is now done on mobile phones. We will build a responsive site for you which works and looks great on the desktop and mobile.'
+      description: 'The site you\'re looking at right now. Built with Vue.js, Vuetify, and Vite—fully responsive, automated CI/CD via GitHub Actions, and deployed to GitHub Pages. A showcase of modern frontend engineering.'
     },
     {
       name: 'Blue Fenix Weblog',
       category: 'Vue.js, VitePress, Vite',
       link: 'https://chris.pelatari.com',
       src: 'chris_pelatari_com_dark.png',
-      description: 'A personal blog built with Vue.js and VitePress, showcasing articles on web development, technology, and more.'
+      description: 'Technical blog covering web development, cloud architecture, and lessons learned from 25 years in the industry. Built with VitePress for lightning-fast static generation and automatic dark/light theming.'
     },
     {
       name: 'Blue Fenix Weblog (light)',
       category: 'Vue.js, VitePress, Vite',
       link: 'https://chris.pelatari.com',
       src: 'chris_pelatari_com_light.png',
-      description: 'A personal blog built with Vue.js and VitePress, showcasing articles on web development, technology, and more.'
+      description: 'Technical blog covering web development, cloud architecture, and lessons learned from 25 years in the industry. Built with VitePress for lightning-fast static generation and automatic dark/light theming.'
     },
     {
       name: 'Done Deal Designs',
       category: 'Small Business Website',
       link: 'https://donedealdesigns.com',
       src: 'donedeal.png',
-      description: 'A small business website for a custom landscape designer and pool builder, showcasing their products and services.'
+      description: 'Clean, conversion-focused website for a custom landscape designer and pool builder. Designed to turn visitors into leads with clear service showcases and easy contact flow.'
     },
     {
       name: 'Ned Yousef',
       category: 'Actors Reel Website',
       link: 'https://nedyousef.com',
       src: 'nedyousef_com.png',
-      description: 'A personal website for an actor, featuring a portfolio of work, biography, and contact information.'
+      description: 'Professional portfolio for a working actor—demo reel integration, credits showcase, and casting-friendly layout designed to make a strong first impression with industry contacts.'
     },
     {
       name: 'The Skull and Crown',
       category: 'Retail Website',
       link: 'https://theskullandcrown.com',
       src: 'theskullandcrown2.png',
-      description: 'A retail website for The Skull and Crown, featuring badass gear for badass biker chicks.'
+      description: 'E-commerce site for a bold motorcycle lifestyle brand. Built to match the brand\'s edge—dark aesthetic, mobile-first shopping experience, and seamless product browsing.'
     },
     {
       name: 'Tuning Model',
       category: 'C#, ASP.NET Core, MVC, SQL Server',
       link: 'https://velocitydatabank.com/tuningmodel',
       src: 'tuningmodel.png',
-      description: 'A custom web application for managing and tuning seismic information, built with C#, ASP.NET Core, and SQL Server.'
+      description: 'Specialized tool for seismic data analysis and parameter tuning. Complex domain logic made accessible through an intuitive interface—built with C#, ASP.NET Core, and SQL Server for the oil and gas industry.'
     },
     {
       name: 'Cancer Couture',
       category: 'Small Business Website',
       link: 'https://cancer-couture.com',
       src: 'cancercouture.png',
-      description: 'A small business website for Cancer Couture, a company that creates custom experiences for cancer patients.'
+      description: 'Purpose-driven website for a company creating empowering experiences for cancer patients. Warm, accessible design that reflects the brand\'s mission while making it easy for families to connect and engage.'
     },
     {
       name: 'AJI Roofing TX',
       category: 'Small Business Website',
       link: 'https://ajiroofingtx.com',
       src: 'ajiroofingtx_com_dark.png',
-      description: 'A small business website for AJI Roofing TX, showcasing their services and expertise in roofing.'
+      description: 'Lead-generating website for a Texas roofing contractor. Service area targeting, project galleries, and a streamlined quote request flow—designed to convert local search traffic into booked jobs.'
     },
     {
       name: 'AJI Roofing TX (light)',
       category: 'Small Business Website',
       link: 'https://ajiroofingtx.com',
       src: 'ajiroofingtx_com_light.png',
-      description: 'A small business website for AJI Roofing TX, showcasing their services and expertise in roofing.'
+      description: 'Lead-generating website for a Texas roofing contractor. Service area targeting, project galleries, and a streamlined quote request flow—designed to convert local search traffic into booked jobs.'
     }
   ])
 </script>

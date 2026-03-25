@@ -13,7 +13,7 @@
         <v-col cols="auto">
           <blockquote style="max-width: 230px;">
             <p class="font-weight-light font-italic">
-                My GitHub profile goes back to 2009. Over the years, I've refined my craft through countless projects and contributions, consistently pushing the boundaries of innovation.
+                Building in public since 2009. My commit history is my track record—thousands of contributions across open source and production systems that businesses rely on every day.
             </p>
             <footer class="text-center mt-4">
               <v-btn color="primary" to="/Chris_Pelatari_Executive_BlueFenix.docx" target="_blank" class="text-all-uppercase font-weight-bold">
